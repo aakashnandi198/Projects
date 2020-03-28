@@ -1,0 +1,3 @@
+    conc (uM)	fraction_unfolded
+      0.00000	          0.99940
+      0.00000	          0.99925

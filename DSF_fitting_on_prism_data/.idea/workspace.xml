@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="279f51c9-a772-4b37-aeb9-75ec7be06513" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Ariel2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source/master.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Source/DSF_fitting.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Um</find>
+      <find>fit_with_shared_slopes</find>
+      <find>output_parameters</find>
+      <find>fit_global_thermal</find>
+      <find>estimate_initial_params</find>
+      <find>make_thermal_plots</find>
+      <find>make_Tm_plots</find>
+      <find>plot_Tm_shifts</find>
+      <find>make_isothermal_plots</find>
+      <find>isothermal_output_tag</find>
+      <find>isothermal_Tlist</find>
+      <find>plot_fits_to_thermal_unfolding_data</find>
+      <find>plot_isothermal_binding_fits</find>
+      <find>save_location</find>
+      <find>fit_isothermal_Kd</find>
+      <find>binding_curve_errfxn</find>
+      <find>calculate_fitted_isothermal_point</find>
+      <find>calculate_fraction_unfolded</find>
+      <find>fit_all_individual_thermal_curves_fixed_slopes</find>
+      <find>fit_all_individual_thermal_curves</find>
+      <find>fit_single_thermal_curve_fixed_slopes</find>
+      <find>fit_single_thermal_curve</find>
+      <find>single_thermal_curve_errfxn_fixed_slopes</find>
+      <find>single_thermal_curve_errfxn</find>
+      <find>mM</find>
+      <find>uM</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../dsf-fitting/DSF_fitting.py" />
+        <option value="$PROJECT_DIR$/Output/4511_ADP/4511_ADP_KuKd_values.txt" />
+        <option value="$PROJECT_DIR$/Source/DSF_fitting.py" />
+        <option value="$PROJECT_DIR$/Source/master.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Ariel2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ariel2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ariel2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ariel2" type="462c0819:PsiDirectoryNode" />
+              <item name="Source" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ariel/main.py" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="master" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Ariel2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Source/master.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.master" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="279f51c9-a772-4b37-aeb9-75ec7be06513" name="Default Changelist" comment="" />
+      <created>1578248758687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578248758687</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49832028" visible="true" weight="0.12961012" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5016797" side_tool="true" weight="0.20706007" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37703142" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37703142" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Source/DSF_fitting.py</url>
+          <line>257</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Source/DSF_fitting.py</url>
+          <line>328</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Source/master.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Ariel/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/zipfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="1117" selection-start-line="1117" selection-end-line="1117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/openpyxl/utils/cell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="136" selection-start-line="136" selection-end-line="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/4511_ATP/4511_ATP_conc.txt" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ADP/4511_ADP_conc.txt" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ADP/4511_ADP_fluo.txt" />
+    <entry file="file://$PROJECT_DIR$/../dsf-fitting/DSF_fitting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3692">
+          <caret line="753" lean-forward="true" selection-start-line="753" selection-end-line="753" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="811" selection-start-line="811" selection-end-line="811" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/4511_ADP/4511_ADP_isothermal_T=55.data.txt" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ADP/4511_ADP_isothermal_T=55.fit.txt" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ADP/4511_ADP_isothermal_T=35.data.txt" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ADP/4511_ADP_isothermal_T=35.fit.txt" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ADP/4511_ADP_isothermal_T=45.data.txt" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ADP/4511_ADP_isothermal_T=45.fit.txt" />
+    <entry file="file://$PROJECT_DIR$/Source/thermal_unfolding_curves.png" />
+    <entry file="file://$PROJECT_DIR$/Source/isothermal_curves.single.png" />
+    <entry file="file://$PROJECT_DIR$/Source/isothermal_curves.all.png" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ATP/4511_ATP_isothermal_T=55.fit.txt" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ADP/Tm_shifts.png" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ADP/isothermal_curves.all.png" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ADP/isothermal_curves.single.png" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ADP/thermal_unfolding_curves.png" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ADP/4511_ADP_KuKd_values.txt" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ADP/4511_ADP_parameters.txt" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ADP/4511_ADP_Tm_values.txt" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ATP/Tm_shifts.png" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ATP/thermal_unfolding_curves.png" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ATP/isothermal_curves.single.png" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ATP/isothermal_curves.all.png" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ATP/4511_ATP_parameters.txt" />
+    <entry file="file://$PROJECT_DIR$/Output/4511_ATP/4511_ATP_KuKd_values.txt" />
+    <entry file="file://$PROJECT_DIR$/Source/master.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/DSF_fitting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
